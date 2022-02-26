@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/wPRLogT.gif" width=250><br>
+<img src="https://i.imgur.com/8n8O2BJ.gif" width=250><br>
 
 ### Notes
 I had some trouble connecting outlets to my view controller--I had two view controller files at one point--but after understanding what view controllers were, it was easy debugging.
