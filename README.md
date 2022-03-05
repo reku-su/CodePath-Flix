@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://i.imgur.com/Hcmmzl0.gif" width=250><br>
 
 ### Notes
-Xcode wouldn't recognize my MovieGridCell file for some reason. A quick restart fixed it. ¯\_(ツ)_/¯
+Xcode wouldn't recognize my MovieGridCell file for some reason. A quick restart fixed it. ¯\\_(ツ)_/¯
 
 ## Flix Part 1
 
